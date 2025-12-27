@@ -1,0 +1,9 @@
+{
+  "name": "team wizard",
+  "description": "A comprehensive safety platform for women featuring real-time AI voice companions, emergency SOS alerts, and location-based safe haven discovery using Gemini grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
